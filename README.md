@@ -37,5 +37,5 @@ flutter test
 
 ## Apendice
 * Alguns pontos à salientar
-** Seria possível implementar localization, repositories, rotas (com Go Router), porém devido ao tempo não foi possível.
-** Os icones também não foram alterados e mantive o padrão
+* Seria possível implementar localization, repositories, rotas (com Go Router), porém devido ao tempo não foi possível.
+* Os icones também não foram alterados e mantive o padrão
