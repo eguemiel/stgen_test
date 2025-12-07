@@ -1,0 +1,39 @@
+{
+    "items": [
+      {
+        "name": "Burger",
+        "price": 5.00,
+        "type": "sandwich",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/07/15/18/12/cheese-burger-7323674_640.jpg",
+        "description": "Burger with cheese"
+      },
+      {
+        "name": "Egg",
+        "price": 4.50,
+        "type": "sandwich",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/07/15/18/17/spicy-burger-7323694_640.jpg",
+        "description": "Burger with egg"
+      },
+      {
+        "name": "Bacon",
+        "price": 7.00,
+        "type": "sandwich",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/07/15/18/12/cheese-burger-7323672_640.jpg",
+        "description": "Burger with bacon"
+      },
+      {
+        "name": "Fries",
+        "price": 2.00,
+        "type": "fries",
+        "imageUrl": "https://cdn.pixabay.com/photo/2024/01/23/08/11/ai-generated-8527044_640.jpg",
+        "description": "Fried potatoes crispy"
+      },
+      {
+        "name": "Drink",
+        "price": 2.50,
+        "type": "drink",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/06/17/20/13/soft-drink-4280835_640.jpg",
+        "description": "Soda light or cola"
+      }
+    ]
+  }
